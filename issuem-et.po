@@ -153,7 +153,7 @@ msgstr "Kustuta lisatud vaikimisi väljaande pilt"
 
 #: issuem-class.php:662
 msgid "Display Byline As"
-msgstr "Autor eelliides (\"Kirjutas...\" vms)"
+msgstr "Autori eelliides (\"Kirjutas...\" vms)"
 
 #: issuem-class.php:674
 msgid "Show Thumbnail Byline"
