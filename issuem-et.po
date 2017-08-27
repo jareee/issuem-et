@@ -1,0 +1,711 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: IssueM\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-27 14:10+0000\n"
+"PO-Revision-Date: 2017-08-27 15:22+0000\n"
+"Last-Translator: kkadmin <rein.laaneser@gmail.com>\n"
+"Language-Team: Estonian\n"
+"Language: et\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: issuem-cats-taxonomy.php:21 issuem-cats-taxonomy.php:31
+#: issuem-widgets.php:457 issuem-widgets.php:463
+msgid "Article Categories"
+msgstr "Rubriigid"
+
+#: issuem-cats-taxonomy.php:22
+msgid "Article Category"
+msgstr "Rubriik"
+
+#: issuem-cats-taxonomy.php:23
+msgid "Search Article Categories"
+msgstr "Otsi rubriike"
+
+#: issuem-cats-taxonomy.php:24
+msgid "All Article Categories"
+msgstr "Kõik rubriigid"
+
+#: issuem-cats-taxonomy.php:25
+msgid "Parent Article Category"
+msgstr "Pearubriigid"
+
+#: issuem-cats-taxonomy.php:26
+msgid "Parent Article Category:"
+msgstr "Pearubriik: "
+
+#: issuem-cats-taxonomy.php:27
+msgid "Edit Article Category"
+msgstr "Toimeta rubriiki"
+
+#: issuem-cats-taxonomy.php:28
+msgid "Update Article Category"
+msgstr "Uuenda rubriiki"
+
+#: issuem-cats-taxonomy.php:29
+msgid "Add New Article Category"
+msgstr "Lisa uus rubriik"
+
+#: issuem-cats-taxonomy.php:30
+msgid "New Article Category"
+msgstr "Uus rubriik"
+
+#: issuem-cats-taxonomy.php:73 issuem-cats-taxonomy.php:190
+#: issuem-cats-taxonomy.php:216
+msgid "Category Order"
+msgstr "Rubriikide järjekord"
+
+#: issuem-class.php:103 issuem-class.php:103 issuem-class.php:539
+msgid "IssueM Settings"
+msgstr "IssueM seaded"
+
+#: issuem-class.php:105 issuem-class.php:105 issuem-class.php:903
+msgid "IssueM Help"
+msgstr ""
+
+#: issuem-class.php:107 issuem-class.php:107
+msgid "Add-Ons"
+msgstr "IssueM lisad"
+
+#: issuem-class.php:341
+msgid "Download PDF"
+msgstr "Lae alla PDF"
+
+#: issuem-class.php:342
+msgid "PDF Only"
+msgstr "Ainult PDF"
+
+#: issuem-class.php:530
+msgid "Settings updated."
+msgstr "Seaded on uuendatud."
+
+#: issuem-class.php:548
+msgid "General"
+msgstr "Üldine"
+
+#: issuem-class.php:564
+msgid "Admin Options"
+msgstr "Administreerimise seaded"
+
+#: issuem-class.php:571
+msgid "Page for Articles"
+msgstr "Artiklite lehekülg"
+
+#: issuem-class.php:575
+msgid "Page for Issue Archives"
+msgstr "Väljaannete lehekülg"
+
+#: issuem-class.php:582
+msgid "CSS Style"
+msgstr "CSS stiil"
+
+#: issuem-class.php:600
+msgid "PDF Download Link Title"
+msgstr "PDF allalaadimise lingi pealkiri"
+
+#: issuem-class.php:605
+msgid "PDF Only Title"
+msgstr "Ainult PDF pealkiri"
+
+#: issuem-class.php:610
+msgid "PDF Link Target"
+msgstr "PDF link"
+
+#: issuem-class.php:613
+msgid "Open in New Window/Tab"
+msgstr "Ava uues ankas/kaardil"
+
+#: issuem-class.php:614
+msgid "Open in Same Window/Tab"
+msgstr "Ava samas aknas/kaardil"
+
+#: issuem-class.php:620
+msgid "Cover Image Size"
+msgstr "Kaane pildi suurus"
+
+#: issuem-class.php:622 issuem-class.php:629 issuem-class.php:636
+msgid "Width"
+msgstr "Laius"
+
+#: issuem-class.php:622 issuem-class.php:629 issuem-class.php:636
+msgid "Height"
+msgstr "Kõrgus"
+
+#: issuem-class.php:627
+msgid "Featured Rotator Image Size"
+msgstr "Esiletõestetud vahelduva pildi suurus"
+
+#: issuem-class.php:634
+msgid "Featured Thumbnail Image Size"
+msgstr "Esilõstetud pisipildi suurus"
+
+#: issuem-class.php:644
+msgid "Default Issue Image"
+msgstr "Vaikimisi väljaande pilt"
+
+#: issuem-class.php:656
+msgid "Remove Custom Default Issue Image"
+msgstr "Kustuta lisatud vaikimisi väljaande pilt"
+
+#: issuem-class.php:662
+msgid "Display Byline As"
+msgstr "Autor eelliides (\"Kirjutas...\" vms)"
+
+#: issuem-class.php:674
+msgid "Show Thumbnail Byline"
+msgstr "Näita pisipildi teksti"
+
+#: issuem-class.php:679
+msgid "Name"
+msgstr "Nimi"
+
+#: issuem-class.php:680
+msgid "Use IssueM Author Name instead of WordPress Author"
+msgstr "Kasuta IssueM autorit WorldPress autori asemel"
+
+#: issuem-class.php:684
+msgid "Categories and Tags"
+msgstr "Rubriigid ja sildid"
+
+#: issuem-class.php:685
+msgid "Use Default WordPress Category and Tag Taxonomies"
+msgstr "Kasuta Wordpressi vaikimisi rubriikide ja siltide taksonoomiat"
+
+#: issuem-class.php:689
+msgid "Links"
+msgstr "Lingid"
+
+#: issuem-class.php:690
+msgid "Use Taxonomical links instead of shortcode based links for Issues"
+msgstr ""
+"Kasuta väljaannetes taksonoomia linke lühimärgistuse (shortcode) linkde "
+"asemel"
+
+#: issuem-class.php:706
+msgid "IssueM Featured Rotator Options"
+msgstr "IssueM esiletõstetud vahelduvate pildtide seaded"
+
+#: issuem-class.php:713
+msgid "Pagination Navigation"
+msgstr "Lehekülgede navigatsiooni märgistus"
+
+#: issuem-class.php:718
+msgid "Direction Navigation"
+msgstr "Suunatud navigatsiooni märgistus (direction navigation)"
+
+#: issuem-class.php:723
+msgid "Animation Type"
+msgstr "Animatsiooni tüüp"
+
+#: issuem-class.php:746
+msgid "IssueM Article Shortcode Format"
+msgstr "IssueM artiklite lühimärgistuse formaat"
+
+#: issuem-class.php:761
+msgid "Save Settings"
+msgstr "Salvesta seaded"
+
+#: issuem-class.php:785
+msgid "Support"
+msgstr "Tugi"
+
+#: issuem-class.php:802
+msgid "Rate IssueM!"
+msgstr "Hinda IssueM!"
+
+#: issuem-class.php:819
+msgid "Zeen101 Blog"
+msgstr "Zeem101 Blogi"
+
+#: issuem-class.php:908
+msgid "Getting Started"
+msgstr "Esimesed sammud"
+
+#: issuem-class.php:911
+msgid ""
+"The following steps will demonstrate how to get started creating your online "
+"magazine."
+msgstr "Järgmised sammud näitavad kuidas alustada oma online ajakirja"
+
+#: issuem-class.php:978
+msgid "IssueM Shortcodes"
+msgstr "IssueM lühimärgistus"
+
+#: issuem-class.php:982
+msgid "Issue Title:"
+msgstr "IssueM pealkiri"
+
+#: issuem-class.php:984
+msgid "This shortcode will display the current issue title."
+msgstr ""
+"See lühimärgistus näitab käesoleva väljaande (\"issue\" ingl k) pealkirja."
+
+#: issuem-class.php:989
+msgid "Article Loop:"
+msgstr "Artiklite väljastus"
+
+#: issuem-class.php:991
+msgid "This shortcode will display the list of articles in an issue."
+msgstr "See lühimärgistus näitab väljaand artiklite nimekirja "
+
+#: issuem-class.php:993 issuem-class.php:1006 issuem-class.php:1018
+#: issuem-class.php:1050
+msgid "Examples:"
+msgstr "Näited"
+
+#: issuem-class.php:1002
+msgid "Featured Article Rotator:"
+msgstr "Esiletõstetud artiklite ringvahetaja"
+
+#: issuem-class.php:1004
+msgid ""
+"This shortcode will display a slideshow of articles that have been checked "
+"to display in the featured rotator."
+msgstr ""
+"See lühimärgistus näitab vahelduvalt  artiklid, mis on märgistatud "
+"ringvahelduvasse vaatesse. "
+
+#: issuem-class.php:1012
+msgid "Featured Thumbnails:"
+msgstr "Esiletõstetud pisipildid: "
+
+#: issuem-class.php:1016
+msgid ""
+"This shortcode will display the grid of featured article thumbnails in an "
+"issue"
+msgstr ""
+"See lühimärgistus väljastab väljaande esiletõstetud artiklite pisipiltide "
+"tabeli"
+
+#: issuem-class.php:1025
+msgid "Archive Page:"
+msgstr "Arhiivi leht:"
+
+#: issuem-class.php:1027
+msgid "This shortcode will display the list of current and past issues."
+msgstr ""
+
+#: issuem-class.php:1029
+msgid "Default Arguments:"
+msgstr "Vaikimisi argumendi"
+
+#: issuem-class.php:1036
+msgid "Setting \"PDF Title\""
+msgstr "Seadista \"PDF pealkiri\""
+
+#: issuem-class.php:1037
+msgid "Setting \"Default Cover Image\""
+msgstr "Seadista \"Vaikimisi kaanepilt\""
+
+#: issuem-class.php:1040
+msgid "Accepted Arguments:"
+msgstr "Lubatud Argumendid:"
+
+#: issuem-class.php:1045
+msgid "Any number 0 and greater"
+msgstr "Iga number 0 või suurem"
+
+#: issuem-class.php:1046
+msgid "Text"
+msgstr "Tekst"
+
+#: issuem-class.php:1047
+msgid "Image URL"
+msgstr "Pildi URL"
+
+#: issuem-class.php:1053
+msgid "Download Now"
+msgstr "Lae alla"
+
+#: issuem-class.php:1087
+msgid "IssueM Advanced Styles"
+msgstr "IssueM täistatud stiilid"
+
+#: issuem-class.php:1093
+msgid "Advanced Style Options"
+msgstr "Täistatud stiilide seaded"
+
+#: issuem-class.php:1135
+msgid "IssueM Add-Ons"
+msgstr "IssueM lisad"
+
+#: issuem-class.php:1136
+msgid "The following are available add-ons to extend IssueM functionality."
+msgstr "Järgnevalt on olemasolevad lisad Issuem võimaluste laienadmiseks. "
+
+#: issuem-class.php:1404
+msgid "Default"
+msgstr "Vaikimisi"
+
+#: issuem-class.php:1405 issuem-widgets.php:394
+msgid "None"
+msgstr "Midagi"
+
+#: issuem-class.php:1428
+msgid "Dismiss"
+msgstr "Loobu"
+
+#: issuem-functions.php:436 issuem-shortcodes.php:536 issuem-shortcodes.php:715
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: issuem-post-type.php:26 issuem-post-type.php:37
+msgid "Articles"
+msgstr "Artiklid"
+
+#: issuem-post-type.php:27
+msgid "Article"
+msgstr "Artikkel"
+
+#: issuem-post-type.php:28 issuem-post-type.php:29
+msgid "Add New Article"
+msgstr "Lisa uus artikkel"
+
+#: issuem-post-type.php:30
+msgid "Edit Article"
+msgstr "Toiemta artiklit"
+
+#: issuem-post-type.php:31
+msgid "New Article"
+msgstr "Uus artikkel"
+
+#: issuem-post-type.php:32
+msgid "View Article"
+msgstr "Vaata artiklit"
+
+#: issuem-post-type.php:33
+msgid "Search Articles"
+msgstr "Otsi artikleid"
+
+#: issuem-post-type.php:34
+msgid "No articles found"
+msgstr "Ühtegi artiklit ei leitud"
+
+#: issuem-post-type.php:35
+msgid "No articles found in trash"
+msgstr "Ühtegi artiklit ei leitud prügikastist"
+
+#: issuem-post-type.php:43
+msgid "IssueM Articles"
+msgstr "IssueM artiklid"
+
+#: issuem-post-type.php:102
+msgid "IssueM Article Options"
+msgstr "IssueM artiklite seaded"
+
+#: issuem-post-type.php:133
+msgid "Add article to Featured Rotator"
+msgstr "Lisa artikkel ringvahetajasse"
+
+#: issuem-post-type.php:136
+msgid "Add article to Featured Thumbnails"
+msgstr "Lisa artikkel esiletõstetud pisipiltide hulka"
+
+#: issuem-post-type.php:139
+msgid "Teaser Text"
+msgstr "Kokkuvõttev tekst"
+
+#: issuem-post-type.php:145
+msgid "IssueM Author Name"
+msgstr "IssueM autori nimi"
+
+#: issuem-shortcodes.php:213 issuem-shortcodes.php:433
+msgid "Issue Management by "
+msgstr "IssueM toimetus"
+
+#: issuem-shortcodes.php:219
+msgid "No articles Found"
+msgstr "Artikleid pole"
+
+#: issuem-shortcodes.php:417 issuem-shortcodes.php:424
+msgid "Previous Archives"
+msgstr "Eelmised nimekirjad"
+
+#: issuem-shortcodes.php:421 issuem-shortcodes.php:425
+msgid "Next Archives"
+msgstr "Järgmised nimekirjad"
+
+#: issuem-tags-taxonomy.php:21 issuem-tags-taxonomy.php:31
+msgid "Article Tags"
+msgstr "Sildid"
+
+#: issuem-tags-taxonomy.php:22
+msgid "Article Tag"
+msgstr "Silt"
+
+#: issuem-tags-taxonomy.php:23
+msgid "Search Article Tags"
+msgstr "Otsi silte"
+
+#: issuem-tags-taxonomy.php:24
+msgid "All Article Tags"
+msgstr "Kõik sildid"
+
+#: issuem-tags-taxonomy.php:25
+msgid "Parent Article Tag"
+msgstr "Ülemsilt"
+
+#: issuem-tags-taxonomy.php:26
+msgid "Parent Article Tag:"
+msgstr "Ülemsilt:"
+
+#: issuem-tags-taxonomy.php:27
+msgid "Edit Article Tag"
+msgstr "Muuda silti"
+
+#: issuem-tags-taxonomy.php:28
+msgid "Update Article Tag"
+msgstr "Uuenda silti"
+
+#: issuem-tags-taxonomy.php:29
+msgid "Add New Article Tag"
+msgstr "Lisa silt"
+
+#: issuem-tags-taxonomy.php:30
+msgid "New Article Tag"
+msgstr "Uus silt"
+
+#: issuem-taxonomy.php:20 issuem-taxonomy.php:30
+msgid "Issues"
+msgstr "Väljaanded (numbrid)"
+
+#: issuem-taxonomy.php:22
+msgid "Search Issues"
+msgstr "Otsi väljaandeid"
+
+#: issuem-taxonomy.php:23
+msgid "All Issues"
+msgstr "Kõik väljaanded"
+
+#: issuem-taxonomy.php:24
+msgid "Parent Issues"
+msgstr "Peaväljaanded"
+
+#: issuem-taxonomy.php:25
+msgid "Parent Issues:"
+msgstr "Peaväljaanded:"
+
+#: issuem-taxonomy.php:26
+msgid "Edit Issues"
+msgstr "Muuda väljaandeid"
+
+#: issuem-taxonomy.php:27
+msgid "Update Issues"
+msgstr "Uuenda väljaandeid"
+
+#: issuem-taxonomy.php:28
+msgid "Add New Issues"
+msgstr "Lisa uusi väljaandeid"
+
+#: issuem-taxonomy.php:29
+msgid "New Issue"
+msgstr "Uus väljaanne"
+
+#: issuem-taxonomy.php:79 issuem-taxonomy.php:205 issuem-taxonomy.php:272
+msgid "Issue Order"
+msgstr "Väjaande järjekord"
+
+#: issuem-taxonomy.php:80 issuem-taxonomy.php:200 issuem-taxonomy.php:267
+msgid "Issue Status"
+msgstr "Väljaande staatus"
+
+#: issuem-taxonomy.php:228
+msgid "Draft"
+msgstr "Mustand (draft)"
+
+#: issuem-taxonomy.php:228
+msgid "Live"
+msgstr "Avatud (live)"
+
+#: issuem-taxonomy.php:228
+msgid "PDF Archive"
+msgstr "PDF arhiiv"
+
+#: issuem-taxonomy.php:288
+msgid "Remove Cover Image"
+msgstr "Kustuta kaanepilt"
+
+#: issuem-taxonomy.php:299
+msgid "Cover Image"
+msgstr "Kaanepilt"
+
+# View PDF Version
+#: issuem-taxonomy.php:314
+msgid "View PDF Version"
+msgstr "Ajakirja PDF versioon"
+
+#: issuem-taxonomy.php:315
+msgid "Remove PDF Version"
+msgstr "Kustuta PDF versioon"
+
+#: issuem-taxonomy.php:326
+msgid "External Issue Link"
+msgstr "Väline väljaande link"
+
+#: issuem-taxonomy.php:333
+msgid "PDF Version"
+msgstr "PDF versioon"
+
+#: issuem-taxonomy.php:338
+msgid "Issue-to-PDF Generated PDF"
+msgstr "Väljaande PDF failiks genereeritud versioon (Issue-to-PDF)"
+
+#: issuem-taxonomy.php:344
+msgid "External PDF Link"
+msgstr "Väline PDF link"
+
+#: issuem-widgets.php:41
+msgid "Displays the active IssueM Issue details"
+msgstr "Näitab aktiivse IssueM väljaande üksikasjad"
+
+#: issuem-widgets.php:42
+msgid "IssueM Active Issue"
+msgstr "IssueM aktiivne väljaanne"
+
+#: issuem-widgets.php:156 issuem-widgets.php:362 issuem-widgets.php:526
+msgid "Title:"
+msgstr "Paelkiri:"
+
+#: issuem-widgets.php:161
+msgid "Display Issue Title?"
+msgstr "Kas näidata väljaande peakirja?"
+
+#: issuem-widgets.php:166
+msgid "Display Issue Cover Image?"
+msgstr "Kas näidata väljaande kaanepilti?"
+
+#: issuem-widgets.php:171
+msgid "Display Issue PDF Link?"
+msgstr "Kas näidata väljaande PDF linki?"
+
+#: issuem-widgets.php:178 issuem-widgets.php:440
+msgid "You have to create a issue before you can use this widget."
+msgstr "Sa pead looma esmalt väljaande, et seda moodulit kasutada."
+
+#: issuem-widgets.php:200
+msgid "Sidebar widget to display the current articles."
+msgstr "Külgpaani moodul, käesolevate artiklite näitamiseks"
+
+#: issuem-widgets.php:202
+msgid "IssueM Article List"
+msgstr "IssueM artiklite nimekiri"
+
+#: issuem-widgets.php:367
+msgid "Number of Articles to Show:"
+msgstr "Artiklite arv mida näidata:"
+
+#: issuem-widgets.php:382
+msgid "Select Category to Display:"
+msgstr "Vali rubriik:"
+
+#: issuem-widgets.php:384
+msgid "All Categories"
+msgstr "Kõik rubriigid"
+
+#: issuem-widgets.php:395
+msgid "Article ID"
+msgstr "Artikli ID"
+
+#: issuem-widgets.php:396
+msgid "Article Author"
+msgstr "Artikli autor"
+
+#: issuem-widgets.php:397
+msgid "Article Title"
+msgstr "Artikli pealkiri"
+
+#: issuem-widgets.php:398
+msgid "Article Name"
+msgstr "Artikli nimetus"
+
+#: issuem-widgets.php:399
+msgid "Article Publish Date"
+msgstr "Artikli avaldamise kuupäev"
+
+#: issuem-widgets.php:400
+msgid "Article Modified Date"
+msgstr "Artikli muutmise kuupäev"
+
+#: issuem-widgets.php:401
+msgid "Article Order"
+msgstr "Arikli järjekord"
+
+#: issuem-widgets.php:402
+msgid "Random Order"
+msgstr "Juhuslik järjekord"
+
+#: issuem-widgets.php:403
+msgid "Comment Count"
+msgstr "Kommentaaride arv"
+
+#: issuem-widgets.php:407
+msgid "Select Sort Order:"
+msgstr "Vali järjestamine"
+
+#: issuem-widgets.php:418
+msgid "Descending"
+msgstr "Langevas"
+
+#: issuem-widgets.php:419
+msgid "Ascending"
+msgstr "Tõusvas"
+
+#: issuem-widgets.php:423
+msgid "Select Order Direction:"
+msgstr "Järjestamise suund"
+
+#: issuem-widgets.php:432
+msgid "Article Format:"
+msgstr "Artiklite formaat:"
+
+#: issuem-widgets.php:435
+msgid "See IssueM Help for details on article formatting"
+msgstr "Vaata IssueM Help lehte (ingl. k) artiklite vormistamise kohta"
+
+#: issuem-widgets.php:456
+msgid "A list or dropdown of Article categories"
+msgstr "Artiklite rubriikide nimistu"
+
+#: issuem-widgets.php:475
+msgid "Select Article Category"
+msgstr "Vali rubriik"
+
+#: issuem-widgets.php:530
+msgid "Display as dropdown"
+msgstr "Näita rippmenüüna"
+
+#: issuem-widgets.php:533
+msgid "Show product counts"
+msgstr "Näita toodete arvu"
+
+#: issuem-widgets.php:536
+msgid "Show hierarchy"
+msgstr "Näita hierarhiat"
+
+#. Name of the plugin
+msgid "IssueM"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A feature rich magazine and newspaper issue manager plugin for WordPress."
+msgstr ""
+"Rikkalik ajakirjade ja ajalehtede väljaannete haldamise WordPres plugin"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://issuem.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "zeen101 Development Team"
+msgstr "zeen101 arendusmeeskond"
+
+#: issuem-taxonomy.php:21
+msgid "Issue"
+msgstr "Nr"
