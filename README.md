@@ -1,5 +1,5 @@
 # IssueM WordPress Plugin Estonian Translation
-http://zeen101.com <a href"https://zeen101.com/for-developers/issuem/">IssueM</a> plugin is for issues management in online magazines.
+[Zeen101](http://zeen101.com) [IssueM](https://zeen101.com/for-developers/issuem/) plugin is for issues management in online magazines.
 
 This is proposed translation into estonian.
 
